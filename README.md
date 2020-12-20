@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## DEPLOYED AT
 ## Available Scripts
+Hosting URL: https://spotify-50788.web.app
 
 In the project directory, you can run:
 
